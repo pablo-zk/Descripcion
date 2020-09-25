@@ -1,2 +1,2 @@
 # Sobre mí
-Mi primera página con GitHub
+Mi primera página sobre mí con GitHub
