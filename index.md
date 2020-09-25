@@ -1,14 +1,14 @@
 # Pablo Zúñiga  
 
-Algo de infromación sobre mí realizado desde **GitHub**.  
+Primera página realizada desde **GitHub** - Algo de información sobre mí. 
 
 <img src="espacio.jpg" width="100%" />
 
 ## Sobre mí
 
-Soy un joven, natural de Pamplona y me gusta la **informática**. Desde pequeño me ha interesado mucho el mundo de la informática y las tecnologías. Tambien tengo alguno hobby como la **fotografía**. Hace unos 2 años me compré mi primera cámara réflex. Suelo compartir mis fotografias en mi perfíl de Instagram - [_@zyko_ph_](https://www.instagram.com/zyko_ph/).
+Soy un joven, natural de Pamplona y me gusta la **informática**. Desde pequeño me ha interesado mucho el mundo de la informática y las tecnologías. También tengo algún hobby como la **fotografía**. Hace 2 años me compré mi primera cámara réflex. Suelo compartir mis fotografías en mi perfíl de Instagram - [_@zyko_ph_](https://www.instagram.com/zyko_ph/).
 
-Escucho todo tipo de **música**, esto es algo que tambien me gusta. Escucho música para todo, me ayuda mucho a concentrarme y a su vez a desconectar.
+Escucho todo tipo de **música**, esto es algo que también me gusta. Escucho música para todo, me ayuda mucho a concentrarme y a su vez a desconectar.
 
 ### Mis habilidades con algunos programas y lenguajes de programación
 
@@ -25,7 +25,7 @@ Escucho todo tipo de **música**, esto es algo que tambien me gusta. Escucho mú
 - Valorant
 - CS:GO
 - GTA V
--Among Us
+- Among Us
 
 >**Valorant**
 
