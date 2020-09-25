@@ -27,4 +27,5 @@ Escucho todo tipo de música, esto es algo que tambien me gusta. Escucho música
 - GTA V
 
 ###Valorant
+
 <img src="valorant.jpg" width="400px"/>
