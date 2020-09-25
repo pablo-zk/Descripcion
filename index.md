@@ -1,6 +1,8 @@
-# Pablo Zúñiga  
+# Pablo Zúñiga  <img src="perfil.jpg" width="100px" justify:right />
 
 Algo de infromación sobre mí realizado desde **GitHub**.  
+
+
 
 ## Sobre mí
 
@@ -23,3 +25,4 @@ Escucho todo tipo de música, esto es algo que tambien me gusta. Escucho música
 - Valorant
 - CS:GO
 - GTA V
+
