@@ -1,6 +1,6 @@
 # Pablo Zúñiga  
 
-Algo de infromación sobre mí realizado desde **GitHub**.  <style width=50px>![Perfil](perfil.jpg)</style>
+Algo de infromación sobre mí realizado desde **GitHub**.  
 
 ## Sobre mí
 
@@ -18,3 +18,8 @@ Escucho todo tipo de música, esto es algo que tambien me gusta. Escucho música
 |Java           | Nivel Medio
 |Excel - Access | Nivel Medio
 
+### También juego a videojuegos, como:
+- COD Warzone
+- Valorant
+- CS:GO
+- GTA V
