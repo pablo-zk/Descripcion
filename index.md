@@ -1,8 +1,8 @@
-# Pablo Zúñiga  <img src="perfil.jpg" width="100px" justify:right />
+# Pablo Zúñiga  
 
 Algo de infromación sobre mí realizado desde **GitHub**.  
 
-
+<img src="perfil.jpg" width="100px" />
 
 ## Sobre mí
 
