@@ -1,6 +1,6 @@
 # Pablo Zúñiga  
 
-Algo de infromación sobre mí realizado desde **GitHub**.  ![Perfil](perfil.jpg)
+Algo de infromación sobre mí realizado desde **GitHub**.  ![Perfil](perfil.jpg)(width=100px)
 
 ## Sobre mí
 
