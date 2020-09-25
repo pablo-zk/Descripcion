@@ -1,23 +1,17 @@
 # Pablo Zúñiga
 
-Este es mi primer curriculum vitae realizado desde **GitHub**.
+Algo de infromación sobre mí realizado desde **GitHub**.
 
 ## Sobre mí
 
-Soy un chico joven de nacionalidad Española, muy trabajador, tanto individualmente como en equipo, y con muchas ganas de aprender. Soy una persona muy responsable y tengo una actitud muy positiva.
+Soy un joven, natural de pamplona y me gusta la informática. Desde pequeño me ha interesado mucho el mundo de la infromática y las tecnologías. Tambien tengo algunos hobbies como la fotografía. Hace unos 2 años me compré mi primera cámara réflex. Suelo compartir mis fotografias en mi perfíl de Instagram - @zyko_ph.
 
-## Mis Estudios
-- Técnico en Sistemas Microinformáticos y Redes (Grado Medio)
-  > _| 2018-2020 |_
-  
-- Educación Secundaria Obligatoria
-  > _| 2014-2018 |_
-  
-## Habilidades
+## Mis habilidades con algunos programas y lenguajes de programación
 |||
 |--|--|
-|Idioma         | Certificado Cambridge - B1
+|Photoshop      |Nivel Avanzado
 |HTML           | Nivel Avanzado
 |VisualBasic    | Nivel Bajo
 |Java           | Nivel Medio
 |Excel - Access | Nivel Medio
+
