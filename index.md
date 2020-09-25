@@ -1,4 +1,4 @@
-# Pablo Zúñiga
+![ITC Cuatrovientos](perfil.jpg) # Pablo Zúñiga
 
 Algo de infromación sobre mí realizado desde **GitHub**.
 
