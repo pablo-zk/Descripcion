@@ -1,2 +1,2 @@
-# myCV
-Curriculum Vitae 2020
+# Sobre mí
+Mi primera página con GitHub
