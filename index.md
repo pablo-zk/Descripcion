@@ -2,7 +2,7 @@
 
 Algo de infromación sobre mí realizado desde **GitHub**.  
 
-<img src="separador.jpg" width="100px" />
+<img src="espacio.jpg" width="600px" />
 
 ## Sobre mí
 
